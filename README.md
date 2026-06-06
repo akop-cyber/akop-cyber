@@ -72,7 +72,7 @@ I believe in learning by building, and my repositories reflect my journey throug
 - **[RAG Built from Scratch v2](https://github.com/akop-cyber/RAG-built-from-scratch-v2)** - RAG system with LLM question answering
 - **[RAG Built from Scratch](https://github.com/akop-cyber/RAG-built-from-scratch)** - Original RAG implementation (3 ⭐)
 - **[Backpropagation Model](https://github.com/akop-cyber/Backpropagation_model)** - Neural network implementation demonstrating backpropagation
-- **[Number Guesser](https://github.com/akop-cyber/Number-Guesser)** - Python game with custom level creation
+
 
 ---
 
