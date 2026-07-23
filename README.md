@@ -21,10 +21,9 @@ I believe in learning by building, and my repositories reflect my journey throug
 ## 💻 Technical Skills
 
 **Languages & Frameworks:**
-- **Python** ⭐⭐⭐⭐⭐
-- **FastAPI** ⭐⭐⭐⭐⭐
+- **Python** ⭐⭐⭐⭐
+- **FastAPI** ⭐⭐⭐⭐
 - HTML/CSS (Web Development)
-- JavaScript (Basic)
 
 **AI/ML Specializations:**
 - Retrieval-Augmented Generation (RAG)
@@ -33,13 +32,12 @@ I believe in learning by building, and my repositories reflect my journey throug
 - Vector Databases & Embeddings
 - Chat Systems & Conversational AI
 - Document Processing & AI
+- Traditional ML models
 
 **Tools & Technologies:**
 - Python (NumPy, Pandas, Scikit-learn)
 - FastAPI & REST APIs
-- LangChain & LLM Frameworks
 - Vector Databases
-- Git & Version Control
 - Netlify & Web Deployment
 
 ---
