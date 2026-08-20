@@ -44,6 +44,12 @@ I believe in learning by building, and my repositories reflect my journey throug
 
 ## 🌟 Featured Projects
 
+### 📚 **[Documind V2](https://github.com/akop-cyber/Documind-V2)** 
+*AI-Powered Document Q&A Product*
+- Instant hasslefree answers. Just plug and play.
+- Intelligent document processing and analysis 
+- App: [https://documindv2.netlify.app/](https://documindv2.netlify.app/)
+
 ### 📚 **[Documind](https://github.com/akop-cyber/Documind)** 
 *AI-Powered Document Intelligence Platform*
 - Intelligent document processing and analysis
