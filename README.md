@@ -69,6 +69,12 @@ I believe in learning by building, and my repositories reflect my journey throug
 - Portfolio Website: [https://aaravkumarranjan.netlify.app](https://aaravkumarranjan.netlify.app)
 - Showcasing AI/ML project integration
 
+### 🎰 **[Systematic ε-Greedy Bandit](https://github.com/akop-cyber/systematic-epsilon-greedy-bandit)**
+*Deterministic Periodic Exploration in Stationary Multi-Armed Bandits*
+- Empirical comparison of deterministic versus stochastic exploration schedules
+- Python implementation of stationary multi-armed bandit experiments
+- Includes a technical report with full methodology and results
+
 ---
 
 ## 📊 More Projects
