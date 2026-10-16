@@ -42,6 +42,17 @@ I believe in learning by building, and my repositories reflect my journey throug
 
 ---
 
+## Current Researches
+
+### 🎰 **[Systematic ε-Greedy Bandit](https://github.com/akop-cyber/systematic-epsilon-greedy-bandit)**
+*Published via Zenodo (DOI: 10.5281/zenodo.23418529)*  
+*Deterministic Periodic Exploration in Stationary Multi-Armed Bandits*
+- Empirical comparison of deterministic versus stochastic exploration schedules
+- Python implementation of stationary multi-armed bandit experiments
+- Includes a technical report with full methodology and results
+
+---
+
 ## 🌟 Featured Projects
 
 ### 📚 **[Documind V2](https://github.com/akop-cyber/Documind-V2)** 
@@ -69,11 +80,6 @@ I believe in learning by building, and my repositories reflect my journey throug
 - Portfolio Website: [https://aaravkumarranjan.netlify.app](https://aaravkumarranjan.netlify.app)
 - Showcasing AI/ML project integration
 
-### 🎰 **[Systematic ε-Greedy Bandit](https://github.com/akop-cyber/systematic-epsilon-greedy-bandit)**
-*Deterministic Periodic Exploration in Stationary Multi-Armed Bandits*
-- Empirical comparison of deterministic versus stochastic exploration schedules
-- Python implementation of stationary multi-armed bandit experiments
-- Includes a technical report with full methodology and results
 
 ---
 
