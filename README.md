@@ -1,6 +1,6 @@
 # Hey, I'm Aarav 👋
 
-**Founder — Documind V2 | Independent Researcher | AI/ML Developer | Python & FastAPI Enthusiast | Building Intelligent Systems**
+**AI/ML Developer and Enthusiast | Independent Researcher | High School Student**
 
 Welcome to my GitHub! I'm passionate about **Artificial Intelligence, Machine Learning, and Retrieval-Augmented Generation (RAG)** systems. I love building scalable backend solutions and exploring cutting-edge AI technologies.
 
