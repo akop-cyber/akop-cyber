@@ -86,7 +86,7 @@ I am always open to discussing AI/ML research, collaborating on innovative proje
 
 - 💼 **Portfolio:** [aaravkumarranjan.netlify.app](https://aaravkumarranjan.netlify.app)
 - 💬 **GitHub:** [@akop-cyber](https://github.com/akop-cyber)
-- 📧 **Email:** [Your Email Here]
+- 📧 **Email:** aaravkranjan@gmail.com
 
 ---
 
