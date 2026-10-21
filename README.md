@@ -2,7 +2,7 @@
 
 **AI/ML Developer and Enthusiast** | **Independent Researcher** | **High School Student**
 
-I build intelligent systems that bridge the gap between complex algorithms and real-world applications.My core focus is on **Reinforcement Learning**, **intelligent data routing**, and scalable backend architecture using **Python and FastAPI**.
+I build intelligent systems that bridge the gap between complex algorithms and real-world applications.My core focus is on **Reinforcement Learning**, **intelligent data routing**, and scalable backend architecture using **Python and FastAPI**. I started learning **Python** in **2024**.
 
 ---
 
