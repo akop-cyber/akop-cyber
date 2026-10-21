@@ -1,106 +1,69 @@
-# Hey, I'm Aarav 👋
+# Aarav Kumar Ranjan 😄
 
-**AI/ML Developer** | **Independent Student Researcher** | **High School Builder**
+**AI/ML Developer and Enthusiast** | **Independent Researcher** | **High School Student**
 
-Welcome to my GitHub! I'm passionate about **Artificial Intelligence**, **Machine Learning**, and **Retrieval-Augmented Generation (RAG)** systems. I love building robust backend solutions and exploring cutting-edge AI technologies.
-
----
-
-## 🚀 About Me
-
-I'm an AI/ML developer focused on creating intelligent systems that bridge the gap between complex algorithms and real-world applications. With a strong foundation in **Python** and **FastAPI**, I specialize in building reliable backends for AI-powered applications, particularly in custom **RAG pipelines** and **LLM integration**.
-
-I believe in learning by building, and my repositories reflect my journey through:
-
-- Designing and integrating custom **RAG pipelines**
-- Implementing **hybrid retrieval strategies** (BM25 + Vector Search with RRF)
-- Exploring **Reinforcement Learning** and **Multi-Armed Bandit** algorithms
-- Building intelligent **document processing** solutions
-
----
-
-## 💻 Technical Skills
-
-### Languages & Frameworks
-- **Python** ⭐⭐⭐⭐
-- **FastAPI** ⭐⭐⭐⭐
-- **HTML/CSS** (Web Development)
-
-### AI/ML Specializations
-- **Retrieval-Augmented Generation (RAG)**
-- **Large Language Models (LLMs)** & **Prompt Engineering**
-- **Reinforcement Learning** (Multi-Armed Bandits)
-- **Vector Databases** & **Embeddings**
-- **Traditional ML models** (Scikit-learn, NumPy, Pandas)
-
-### Tools & Technologies
-- **FastAPI** & **REST APIs**
-- **Hugging Face** `sentence-transformers`
-- **Netlify** & **Web Deployment**
+I build intelligent systems that bridge the gap between complex algorithms and real-world applications.My core focus is on **Reinforcement Learning**, **intelligent data routing**, and scalable backend architecture using **Python and FastAPI**.
 
 ---
 
 ## 📚 Current Research
 
-### 🎰 [Systematic ε-Greedy Bandit](https://github.com/akop-cyber/systematic-epsilon-greedy-bandit)
+### Systematic ε-Greedy Bandit
 
-**Published via Zenodo** (DOI: [10.5281/zenodo.23418529](https://doi.org/10.5281/zenodo.23418529))
+[GitHub](https://github.com/akop-cyber/systematic-epsilon-greedy-bandit) · [Zenodo DOI: 10.5281/zenodo.23418529](https://doi.org/10.5281/zenodo.23418529)
 
-- **Deterministic Periodic Exploration** in Stationary Multi-Armed Bandits
-- Empirical comparison of deterministic versus stochastic exploration schedules across **4,000 paired environments**
-- Includes a technical report with full methodology, control experiments, and statistical analysis
+- Researched **deterministic periodic exploration** in stationary Multi-Armed Bandits.
+- Conducted empirical comparisons of **deterministic vs. stochastic exploration schedules** across **4,000 paired environments**.
+- Authored a **technical report** detailing full methodology, control experiments, and statistical analysis.
 
 ---
 
-## 🌟 Featured Projects
+## 🛠️ Featured Projects
 
-### 📚 [Documind V2](https://github.com/akop-cyber/Documind-V2)
+### Documind V2
 
-**AI-Powered Document Q&A Application**
+[GitHub](https://github.com/akop-cyber/Documind-V2) · [Live App](https://documindv2.netlify.app/)
 
-- Instant, **no-login PDF Q&A** designed to remove user friction
-- Features **hybrid retrieval** (BM25 + Vector) with **Reciprocal Rank Fusion (RRF)**
-- 🔗 **App:** [documindv2.netlify.app](https://documindv2.netlify.app/)
+- A lightweight, **no-login RAG application** for instant PDF Q&A.
+- Implements **hybrid retrieval** (BM25 + Vector embeddings) combined with **Reciprocal Rank Fusion (RRF)** for improved context grounding.
 - 📝 *Note: This is an active learning project optimized for conceptual clarity and demo use, not large-scale production deployment.*
 
-### 📚 [Documind](https://github.com/akop-cyber/Documind)
+### Documind
 
-**AI-Powered Document Intelligence Platform**
+[GitHub](https://github.com/akop-cyber/Documind) · [Live App](https://docu-mind-ai.netlify.app)
 
-- Intelligent **document processing** and **analysis**
-- 🔗 **Frontend:** [docu-mind-ai.netlify.app](https://docu-mind-ai.netlify.app)
+- AI-powered **document intelligence platform** for processing and analyzing PDFfiles.
 
-### 🧠 [RAG Pipeline Evolution (v1 → v3)](https://github.com/akop-cyber/RAG-built-from-scratch-v3)
+### RAG Pipeline Evolution (v1 → v3)
 
-**Iterative RAG System Implementation**
+[GitHub](https://github.com/akop-cyber/RAG-built-from-scratch-v3)
 
-- **v3** features multi-turn **conversation history management** and **LLM integration**
-- Progression from basic retrieval (**v1**) to advanced **context grounding** and **chat loops** (**v3**)
-- 🏷️ **Tags:** `RAG Pipeline` · `LLM Integration` · `Python`
+- An iterative exploration of RAG architecture, progressing from **basic retrieval (v1)** to **multi-turn conversation history management** and **advanced LLM integration (v3)**.
 
-### 💼 [Portfolio AI Backend](https://github.com/akop-cyber/Portfolio-ai)
+### Portfolio AI Backend
 
-**FastAPI Backend for AI Portfolio**
+[GitHub](https://github.com/akop-cyber/Portfolio-ai)
 
-- Clean, modular backend built with **FastAPI**
-- 🔗 **Portfolio Website:** [aaravkumarranjan.netlify.app](https://aaravkumarranjan.netlify.app)
+- Clean, modular backend architecture built with **FastAPI** to support my personal portfolio site.
 
 ---
 
-## 📊 More Projects & Learning Explorations
+## 💻 Technical Stack
 
-- [**RAG Built from Scratch v2**](https://github.com/akop-cyber/RAG-built-from-scratch-v2) — Iteration with added LLM question answering
-- [**RAG Built from Scratch v1**](https://github.com/akop-cyber/RAG-built-from-scratch) — Original baseline RAG implementation
-- [**Backpropagation Learning Demo**](https://github.com/akop-cyber/Backpropagation_model) — Educational implementation demonstrating neural network gradient descent
+- **Languages:** Python, HTML/CSS
+- **Frameworks:** FastAPI, PyTorch, Scikit-learn, NumPy, Pandas
+- **AI/ML:** RAG Systems, LLM Integration, Multi-Armed Bandits, Vector Embeddings
+- **Tools:** Git, Hugging Face `sentence-transformers`, Netlify
 
 ---
 
 ## 🎯 Current Focus
 
-- 🔭 **Deep Diving into AI/ML** — Mastering LLMs, embeddings, and advanced RAG techniques
-- 🚀 **Building Scalable Prototypes** — Creating robust, well-documented AI backends with FastAPI
-- 🧠 **Exploring RAG Variations** — Implementing advanced retrieval and generation strategies
-- 📚 **Continuous Learning** — Staying updated with the latest AI/ML breakthroughs
+- Exploring **Reinforcement Learning**
+- Exploring the intersection of **Reinforcement Learning** and **RAG optimization**.
+- Mastering **advanced retrieval strategies** and **LLM orchestration**.
+- Building robust, well-documented **AI backends** with FastAPI.
+
 
 ---
 
@@ -117,13 +80,13 @@ I believe in learning by building, and my repositories reflect my journey throug
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Connect
 
-I'm always excited to collaborate on **AI/ML projects**, discuss innovative ideas, or help fellow developers!
+I am always open to discussing AI/ML research, collaborating on innovative projects, or connecting with fellow developers.
 
 - 💼 **Portfolio:** [aaravkumarranjan.netlify.app](https://aaravkumarranjan.netlify.app)
 - 💬 **GitHub:** [@akop-cyber](https://github.com/akop-cyber)
-- 📧 **Open to opportunities** in AI/ML development, RAG systems, and LLM integration
+- 📧 **Email:** [Your Email Here]
 
 ---
 
