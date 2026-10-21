@@ -1,142 +1,84 @@
-# Hey, I'm Aarav 👋
+Hey, I'm Aarav 👋
+AI/ML Developer | Independent Student Researcher | High School Builder
+Welcome to my GitHub! I'm passionate about Artificial Intelligence, Machine Learning, and Retrieval-Augmented Generation (RAG) systems. I love building robust backend solutions and exploring cutting-edge AI technologies.
 
-**AI/ML Developer and Enthusiast | Independent Researcher | High School Student**
-
-Welcome to my GitHub! I'm passionate about **Artificial Intelligence, Machine Learning, and Retrieval-Augmented Generation (RAG)** systems. I love building scalable backend solutions and exploring cutting-edge AI technologies.
-
----
-
-## 🚀 About Me
-
-I'm an AI/ML developer focused on creating intelligent systems that bridge the gap between complex algorithms and real-world applications. With a strong foundation in **Python and FastAPI**, I specialize in building robust backends for AI-powered applications, particularly in **RAG pipelines and LLM integration**.
+🚀 About Me
+I'm an AI/ML developer focused on creating intelligent systems that bridge the gap between complex algorithms and real-world applications. With a strong foundation in Python and FastAPI, I specialize in building reliable backends for AI-powered applications, particularly in custom RAG pipelines and LLM integration.
 
 I believe in learning by building, and my repositories reflect my journey through:
-- Building RAG systems from scratch
-- Integrating Large Language Models (LLMs)
-- Creating intelligent document processing solutions
-- Implementing neural networks and backpropagation algorithms
+- Designing and integrating custom RAG pipelines
+- Implementing hybrid retrieval strategies (BM25 + Vector Search with RRF)
+- Exploring Reinforcement Learning and Multi-Armed Bandit algorithms
+- Building intelligent document processing solutions
 
----
-
-## 💻 Technical Skills
-
-**Languages & Frameworks:**
-- **Python** ⭐⭐⭐⭐
-- **FastAPI** ⭐⭐⭐⭐
+💻 Technical Skills
+Languages & Frameworks:
+- Python ⭐⭐⭐⭐
+- FastAPI ⭐⭐⭐⭐
 - HTML/CSS (Web Development)
 
-**AI/ML Specializations:**
+AI/ML Specializations:
 - Retrieval-Augmented Generation (RAG)
-- Large Language Models (LLMs)
-- Neural Networks & Backpropagation
+- Large Language Models (LLMs) & Prompt Engineering
+- Reinforcement Learning (Multi-Armed Bandits)
 - Vector Databases & Embeddings
-- Chat Systems & Conversational AI
-- Document Processing & AI
-- Traditional ML models
+- Traditional ML models (Scikit-learn, NumPy, Pandas)
 
-**Tools & Technologies:**
-- Python (NumPy, Pandas, Scikit-learn)
+Tools & Technologies:
 - FastAPI & REST APIs
-- Vector Databases
+- Hugging Face `sentence-transformers`
 - Netlify & Web Deployment
 
----
+📚 Current Research
+🎰 [Systematic ε-Greedy Bandit](https://github.com/akop-cyber/systematic-epsilon-greedy-bandit)
+Published via Zenodo (DOI: 10.5281/zenodo.23418529)
+- Deterministic Periodic Exploration in Stationary Multi-Armed Bandits
+- Empirical comparison of deterministic versus stochastic exploration schedules across 4,000 paired environments
+- Includes a technical report with full methodology, control experiments, and statistical analysis
 
-## Current Researches
-
-### 🎰 **[Systematic ε-Greedy Bandit](https://github.com/akop-cyber/systematic-epsilon-greedy-bandit)**
-*Published via Zenodo (DOI: 10.5281/zenodo.23418529)*  
-*Deterministic Periodic Exploration in Stationary Multi-Armed Bandits*
-- Empirical comparison of deterministic versus stochastic exploration schedules
-- Python implementation of stationary multi-armed bandit experiments
-- Includes a technical report with full methodology and results
-
----
-
-## 🌟 Featured Projects
-
-### 📚 **[Documind V2](https://github.com/akop-cyber/Documind-V2)** 
-*AI-Powered Document Q&A Product*
-- Instant hasslefree answers. Just plug and play.
-- Intelligent document processing and analysis 
+🌟 Featured Projects
+📚 [Documind V2](https://github.com/akop-cyber/Documind-V2)
+AI-Powered Document Q&A Application
+- Instant, no-login PDF Q&A designed to remove user friction
+- Features hybrid retrieval (BM25 + Vector) with Reciprocal Rank Fusion (RRF)
 - App: [https://documindv2.netlify.app/](https://documindv2.netlify.app/)
+- *Note: This is an active learning project optimized for conceptual clarity and demo use, not large-scale production deployment.*
 
-### 📚 **[Documind](https://github.com/akop-cyber/Documind)** 
-*AI-Powered Document Intelligence Platform*
+📚 [Documind](https://github.com/akop-cyber/Documind)
+AI-Powered Document Intelligence Platform
 - Intelligent document processing and analysis
 - Frontend: [https://docu-mind-ai.netlify.app](https://docu-mind-ai.netlify.app)
-- Apache License 2.0
 
-### 🧠 **[RAG Built from Scratch v3](https://github.com/akop-cyber/RAG-built-from-scratch-v3)** 
-*Production-Ready RAG Pipeline with Chat History*
-- Full implementation of Retrieval-Augmented Generation system
-- Chat loops and conversation history management
-- LLM integration with multi-turn conversations
-- Tags: RAG Pipeline, LLM Tools, Python3
+🧠 [RAG Pipeline Evolution (v1 → v3)](https://github.com/akop-cyber/RAG-built-from-scratch-v3)
+Iterative RAG System Implementation
+- v3 features multi-turn conversation history management and LLM integration
+- Progression from basic retrieval (v1) to advanced context grounding and chat loops (v3)
+- Tags: RAG Pipeline, LLM Integration, Python
 
-### 💼 **[Portfolio AI Backend](https://github.com/akop-cyber/Portfolio-ai)**
-*FastAPI Backend for AI Portfolio*
-- Production backend built with FastAPI
+💼 [Portfolio AI Backend](https://github.com/akop-cyber/Portfolio-ai)
+FastAPI Backend for AI Portfolio
+- Clean, modular backend built with FastAPI
 - Portfolio Website: [https://aaravkumarranjan.netlify.app](https://aaravkumarranjan.netlify.app)
-- Showcasing AI/ML project integration
 
+📊 More Projects & Learning Explorations
+- [RAG Built from Scratch v2](https://github.com/akop-cyber/RAG-built-from-scratch-v2) - Iteration with added LLM question answering
+- [RAG Built from Scratch v1](https://github.com/akop-cyber/RAG-built-from-scratch) - Original baseline RAG implementation
+- [Backpropagation Learning Demo](https://github.com/akop-cyber/Backpropagation_model) - Educational implementation demonstrating neural network gradient descent
 
----
+🎯 Current Focus
+🔭 Deep Diving into AI/ML - Mastering LLMs, embeddings, and advanced RAG techniques
+🚀 Building Scalable Prototypes - Creating robust, well-documented AI backends with FastAPI
+🧠 Exploring RAG Variations - Implementing advanced retrieval and generation strategies
+📚 Continuous Learning - Staying updated with the latest AI/ML breakthroughs
 
-## 📊 More Projects
+📈 GitHub Stats
+[![](https://github-readme-stats.vercel.app/api?username=akop-cyber&show_icons=true&theme=radical&hide=prs,issues)](https://github.com/akop-cyber)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=akop-cyber&layout=compact&theme=radical)](https://github.com/akop-cyber)
 
-- **[RAG Built from Scratch v2](https://github.com/akop-cyber/RAG-built-from-scratch-v2)** - RAG system with LLM question answering
-- **[RAG Built from Scratch](https://github.com/akop-cyber/RAG-built-from-scratch)** - Original RAG implementation (3 ⭐)
-- **[Backpropagation Model](https://github.com/akop-cyber/Backpropagation_model)** - Neural network implementation demonstrating backpropagation
-
-
----
-
-## 🎯 Current Focus
-
-- 🔭 **Deep Diving into AI/ML** - Mastering LLMs, embeddings, and advanced RAG techniques
-- 🚀 **Building Production Systems** - Creating scalable AI backends with FastAPI
-- 🧠 **Exploring RAG Variations** - Implementing advanced retrieval and generation strategies
-- 📚 **Continuous Learning** - Staying updated with latest AI/ML breakthroughs
-- 💡 **Open Source Contribution** - Contributing to AI/ML community projects
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akop-cyber&show_icons=true&theme=radical&hide=prs,issues)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akop-cyber&layout=compact&theme=radical)
-
----
-
-## 🤝 Let's Connect!
-
+🤝 Let's Connect!
 I'm always excited to collaborate on AI/ML projects, discuss innovative ideas, or help fellow developers!
+💼 Portfolio: [aaravkumarranjan.netlify.app](https://aaravkumarranjan.netlify.app)
+💬 GitHub: [@akop-cyber](https://github.com/akop-cyber)
+📧 Open to opportunities in AI/ML development, RAG systems, and LLM integration
 
-- 💼 **Portfolio:** [aaravkumarranjan.netlify.app](https://aaravkumarranjan.netlify.app)
-- 💬 **GitHub:** [@akop-cyber](https://github.com/akop-cyber)
-- 📧 **Open to opportunities** in AI/ML development, RAG systems, and LLM integration
-
----
-
-## 💡 What You'll Find Here
-
-My repositories showcase:
-- 🤖 AI and Machine Learning implementations
-- 📖 RAG systems and LLM integrations
-- ⚙️ Backend solutions with FastAPI
-- 🧪 Experimental projects and learning explorations
-- 📝 Well-documented code with practical examples
-
----
-
-## 🎓 Always Learning
-
-The AI/ML field evolves rapidly, and I'm committed to staying at the forefront of innovation. Whether it's new LLM architectures, advanced retrieval techniques, or production deployment strategies, I'm continuously expanding my knowledge.
-
----
-
-**Feel free to explore my projects, star them if you find them useful, and don't hesitate to reach out for collaboration! 🚀**
-
-*Last Updated: June 2026*
+Last Updated: October 2026
